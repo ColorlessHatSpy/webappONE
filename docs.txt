@@ -1,2 +1,23 @@
 5 blocks need to be made
 
+Main colors : 
+#646560 - M
+#CBA988 - S
+
+
+Sections
+Hero
+    Nav
+    Social Media
+    CTA
+About
+    Company details
+    Specialization
+Projects
+    Project 1
+    Project 2
+    Project 3
+    Project 4
+Clients
+Contact
+    Form
